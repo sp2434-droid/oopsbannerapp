@@ -1,10 +1,11 @@
-public class OOPSBannerApp {
-
-    // Main method - program execution starts here
+class OopsWord {
     public static void main(String[] args) {
-
-        // Printing text to console
-        System.out.println("OOPS");
-
+    System.out.println("  ***  "+"  ***  "+"******"+" ****** ");
+	System.out.println(" *   * "+" *   * "+"*    *"+" *      ");  
+	System.out.println(" *   * "+" *   * "+"*    *"+" *      ");
+	System.out.println(" *   * "+" *   * "+"******"+" ****** ");
+	System.out.println(" *   * "+" *   * "+"*     "+"      * ");
+	System.out.println(" *   * "+" *   * "+"*     "+"      * ");
+	System.out.println("  ***  "+"  ***  "+"*     "+" ****** "); 
     }
 }
